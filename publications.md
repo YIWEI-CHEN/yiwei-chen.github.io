@@ -13,10 +13,11 @@ title: Publications
           <strong>Techniques for Automated Machine Learning</strong><br />
           <b>Yi-Wei Chen</b>, Qingquan Song, Xia Hu<br />
           Research survey, arXiv<br />
-          <a href="https://arxiv.org/pdf/1907.08908.pdf">[PDF]<br />
+          <a href="https://arxiv.org/pdf/1907.08908.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
+
 <h3>
     <a name='2016'></a> 2016
 </h3>
