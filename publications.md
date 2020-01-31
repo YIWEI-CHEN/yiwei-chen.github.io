@@ -3,6 +3,19 @@ layout: page
 title: Publications
 ---
 
+<h3>
+    <a name='2020'></a> 2020
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>On Robustness of Neural Architecture Search under Label Noise</strong><br />
+          <b>Yi-Wei Chen</b>, Qingquan Song, Xi Liu, P.S. Sastry, Xia Hu<br />
+          Research Article, Frontiers in Big Data<br />
+          <a href="https://www.frontiersin.org/articles/10.3389/fdata.2020.00002/abstract">[Preview]</a><br />
+       </p>
+    </div>
+</div>
 
 <h3>
     <a name='2019'></a> 2019
