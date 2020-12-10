@@ -17,16 +17,13 @@ title: Publications
     </div>
 </div>
 
-<h3>
-    <a name='2019'></a> 2019
-</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
           <strong>Techniques for Automated Machine Learning</strong><br />
           <b>Yi-Wei Chen</b>, Qingquan Song, Xia Hu<br />
-          Research survey, arXiv<br />
-          <a href="https://arxiv.org/pdf/1907.08908.pdf">[PDF]</a><br />
+          Research survey, ACM SIGKDD Explorations Newsletter<br />
+          <a href="https://www.kdd.org/exploration_files/7._CR._27._Techniques_for_Automated_Machine_Learning-2.pdf">[PDF]</a><br />
        </p>
     </div>
 </div>
