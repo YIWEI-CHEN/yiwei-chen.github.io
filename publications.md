@@ -4,6 +4,20 @@ title: Publications
 ---
 
 <h3>
+    <a name='2021'></a> 2021
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Techniques for Automated Machine Learning</strong><br />
+          <b>Yi-Wei Chen</b>, Qingquan Song, Xia Hu<br />
+          Research survey, ACM SIGKDD Explorations Newsletter<br />
+          <a href="https://dl.acm.org/doi/abs/10.1145/3447556.3447567">[PDF]</a><br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2020'></a> 2020
 </h3>
 <div class="media">
@@ -12,18 +26,7 @@ title: Publications
           <strong>On Robustness of Neural Architecture Search under Label Noise</strong><br />
           <b>Yi-Wei Chen</b>, Qingquan Song, Xi Liu, P.S. Sastry, Xia Hu<br />
           Research Article, Frontiers in Big Data<br />
-          <a href="https://www.frontiersin.org/articles/10.3389/fdata.2020.00002/abstract">[Preview]</a><br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Techniques for Automated Machine Learning</strong><br />
-          <b>Yi-Wei Chen</b>, Qingquan Song, Xia Hu<br />
-          Research survey, ACM SIGKDD Explorations Newsletter<br />
-          <a href="https://www.kdd.org/exploration_files/7._CR._27._Techniques_for_Automated_Machine_Learning-2.pdf">[PDF]</a><br />
+          <a href="https://www.frontiersin.org/articles/10.3389/fdata.2020.00002/abstract">[PDF]</a><br />
        </p>
     </div>
 </div>
