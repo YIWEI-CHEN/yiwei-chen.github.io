@@ -4,6 +4,20 @@ title: Publications
 ---
 
 <h3>
+    <a name='2022'></a> 2022
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>ACE: Adaptive Constraint-aware Early Stopping in Hyperparameter Optimization</strong><br />
+          <b>Yi-Wei Chen</b>, Chi Wang, Amin Saied, Rui Zhuang<br />
+          Research article, ACM SIGKDD AutoML<br />
+          <a href="https://arxiv.org/abs/2208.02922">[PDF]</a><br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2021'></a> 2021
 </h3>
 <div class="media">
