@@ -21,7 +21,17 @@ title: Publications
        <p class="media-heading">
           <strong>BED: A Real-Time Object Detection System for Edge Devices</strong><br />
           Guanchu Wang, Zaid Pervaiz Bhat, Zhimeng Jiang, <b>Yi-Wei Chen</b>, Daochen Zha, Alfredo Costilla Reyes, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xuanting Cai, Xia Hu<br />
-          Research article, CIKML<br />
+          Research article, CIKM<br />
+          <a href="https://arxiv.org/abs/2202.07503">[PDF]</a><br />
+       </p>
+    </div>
+</div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>AutoVideo: An Automated Video Action Recognition System</strong><br />
+           Daochen Zha, Zaid Pervaiz Bhat, <b>Yi-Wei Chen</b>, Yicheng Wang, Sirui Ding, Jiaben Chen, Kwei-Herng Lai, Mohammad Qazim Bhat, Anmoll Kumar Jain, Alfredo Costilla Reyes, Na Zou, Xia Hu<br />
+          Research article, IJCAI<br />
           <a href="https://arxiv.org/abs/2202.07503">[PDF]</a><br />
        </p>
     </div>
