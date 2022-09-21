@@ -19,7 +19,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>ACE: Adaptive Constraint-aware Early Stopping in Hyperparameter Optimization</strong><br />
+          <strong>BED: A Real-Time Object Detection System for Edge Devices</strong><br />
           Guanchu Wang, Zaid Pervaiz Bhat, Zhimeng Jiang, <b>Yi-Wei Chen</b>, Daochen Zha, Alfredo Costilla Reyes, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xuanting Cai, Xia Hu<br />
           Research article, CIKML<br />
           <a href="https://arxiv.org/abs/2202.07503">[PDF]</a><br />
