@@ -16,6 +16,16 @@ title: Publications
        </p>
     </div>
 </div>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>ACE: Adaptive Constraint-aware Early Stopping in Hyperparameter Optimization</strong><br />
+          Guanchu Wang, Zaid Pervaiz Bhat, Zhimeng Jiang, <b>Yi-Wei Chen</b>, Daochen Zha, Alfredo Costilla Reyes, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xuanting Cai, Xia Hu<br />
+          Research article, CIKML<br />
+          <a href="https://arxiv.org/abs/2202.07503">[PDF]</a><br />
+       </p>
+    </div>
+</div>
 
 <h3>
     <a name='2021'></a> 2021
